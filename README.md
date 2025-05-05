@@ -1,5 +1,9 @@
-# 💫 About Me:
-im currently studying<br>
+# Hello World!, I'm Alvin Patinggi, a Digital Business Student from Indonesia 👋🏼
+🎓 currently studying **Digital Business** at Universitas Negeri Makassar  
+📚 passionate about books — especially romance, fantasy, and historical fiction  
+🎧 music is my daily companion, whether I'm working, reading, or relaxing  
+🛠️ exploring the intersection of technology, creativity, and entrepreneurship  
+🌱 currently learning data analysis, UI/UX design, and digital marketing strategies  
 
 
 ## 🌐 Socials:
